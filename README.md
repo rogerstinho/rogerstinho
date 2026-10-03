@@ -11,30 +11,14 @@
 📍 Mauritius 🇲🇺 &nbsp;·&nbsp; 🌍 Originally from Lomé, Togo 🇹🇬 &nbsp;·&nbsp; 🗣️ French & English
 
 <a href="https://www.linkedin.com/in/roger-koufionou-4a4260134"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:kouroger@gmail.com"><img src="https://img.shields.io/badge/Email-rkoufionou%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="./Profile.pdf"><img src="https://img.shields.io/badge/Résumé-Download_PDF-F89820?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Download CV"/></a>
+<a href="mailto:rkoufionou@gmail.com"><img src="https://img.shields.io/badge/Email-rkoufionou%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="./Roger-KOUFIONOU-CV.pdf"><img src="https://img.shields.io/badge/Résumé-Download_PDF-F89820?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Download CV"/></a>
 
 </div>
 
 ---
 
-### `$ whoami`
-
-```java
-record Engineer(String name, String role, String mission,
-                int yearsOfExperience, List<String> passions, String motto) {}
-
-void main() { // Java 25 — compact source file ☕
-    var me = new Engineer(
-            "Roger KOUFIONOU",
-            "Lead Software & Data Engineer @ Accenture",
-            "Crédit Agricole CIB — Compliance Data Hub",
-            8, // and counting
-            List.of("Software architecture", "Data engineering", "Digital transformation"),
-            "Clean code, solid pipelines, happy teams.");
-    IO.println(me);
-}
-```
+### 👋 About me
 
 I design, build and integrate **software and data solutions** at scale — from **business-rules engines** for one of Europe's largest insurers, to **compliance data platforms** for a corporate & investment bank, to a **state-level budget management system** for a national Ministry of Finance.
 
